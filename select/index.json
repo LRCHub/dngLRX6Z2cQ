@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ドッペルゲンガー",
+  "base_artist": "13.3g",
+  "createdAt": "2026-04-03T09:13:49.535413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "Chatmonchy",
+      "has_synced": false,
+      "path": "select/01_ドッペルゲンガー_Chatmonchy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/02_ドッペルゲンガー_結束バンド.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "T-HEY and TANEKO",
+      "has_synced": false,
+      "path": "select/03_ドッペルゲンガー_T-HEY_and_TANEKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドッペルゲンガー",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/04_ドッペルゲンガー_結束バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドッペルゲンガー",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/pl_01_ドッペルゲンガー_13.3g.txt"
+    }
+  ]
+}
